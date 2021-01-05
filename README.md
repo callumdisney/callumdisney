@@ -33,11 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callumdisney&" alt="callumdisney" /></p>
 
-<details>
-  <summary>Spotify Now Playing</summary>
-<!--START_SECTION:spotify-->
-  [![Spotify](https://callumdisney.vercel.app/api/spotify)](https://open.spotify.com/user/8z264P9gRHGFfpU3nMU6jQ)
-<!--END_SECTION:spotify-->
-</details>
+[![Spotify](https://callumdisney.vercel.app/api/spotify)](https://open.spotify.com/user/8z264P9gRHGFfpU3nMU6jQ)
 
 
