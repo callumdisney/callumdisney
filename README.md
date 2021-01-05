@@ -32,3 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callumdisney&show_icons=true&locale=en" alt="callumdisney" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callumdisney&" alt="callumdisney" /></p>
+
+<details>
+  <summary>Spotify Now Playing</summary>
+<!--START_SECTION:spotify-->
+[![Spotify](https:/novatorem.callumdisney.vercel.app/api/spotify)](https://open.spotify.com/user/callumdisney07)
+<!--END_SECTION:spotify-->
+</details>
+
+
