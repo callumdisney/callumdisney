@@ -1,4 +1,4 @@
-> # Did you know you can have user READMEs?
+# Did you know you can have user READMEs?
 <!--
 ### Hi there 👋
 
