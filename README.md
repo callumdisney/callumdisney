@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/callumdisney" target="blank"><img src="https://img.shields.io/twitter/follow/callumdisney?logo=twitter&style=for-the-badge" alt="callumdisney" /></a> </p>
 
-- 🔭 I’m currently working on [2020: The Game](https://github.com/callumdisney/2020-the-game) and [a dungeon crawler](https://github.com/peppermintgames69/dungeon-crawler)
+- 🔭 I’m currently working on [2020: The Game](https://github.com/callumdisney/2020-the-game) and [a dungeon crawler](https://github.com/peppermintgames69/dungeon-crawler)!
 
-- 👨‍💻 All of my projects are available on [my Github](https://github.com/callumdisney)
+- 👨‍💻 All of my projects are available on [my Github](https://github.com/callumdisney)!
 
-- 📫 You can reach me at **hello@bigmancallum.tk**
+- 📫 You can reach me at **hello@bigmancallum.tk**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
