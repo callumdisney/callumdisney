@@ -38,8 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callumdisney&show_icons=true&locale=en" alt="callumdisney" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callumdisney&" alt="callumdisney" /></p>
-
-[![Spotify](https://callumdisney.vercel.app/api/spotify)](https://open.spotify.com/user/8z264P9gRHGFfpU3nMU6jQ)
-[Spotify]
-
-[<img src="https://novatorem-gray-omega.vercel.app/" alt="Callum Disney's Spotify Playing" width="350" />](https://open.spotify.com/user/=9IJL7KEFSTOu4DiNk_a3Cw)
