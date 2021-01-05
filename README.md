@@ -1,5 +1,5 @@
 > # Did you know you can have user READMEs?
-- ### Hi there 👋
+- Hi there 👋
 
 <!--
 **callumdisney/callumdisney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
