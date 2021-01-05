@@ -11,7 +11,7 @@ I’m currently working on 2 games:
 My pronouns are he/him.
 <br>
 # Contacting me
-You can reach me by [DMing my Twitter](https://twitter.com/CallumDisney) or [emailing me](mailto:hello@bigmancallum.tk.
+You can reach me by [DMing my Twitter](https://twitter.com/CallumDisney) or [emailing me](mailto:hello@bigmancallum.tk).
 <br>
 # The good ones
 ### I like these
