@@ -3,6 +3,7 @@
 Hi! I'm **Callum Disney**! I'm a British programmer, rapper, and a musician.
 <br>
 I’m currently working on 2 games:
+<br>
 [2020: The Game](https://github.com/callumdisney/2020-the-game)
 <br>
 [A dungeon crawler](https://github.com/peppermintgames69/dungeon-crawler)
@@ -10,7 +11,7 @@ I’m currently working on 2 games:
 My pronouns are he/him.
 <br>
 # Contacting me
-You can reach me by [DMing my Twitter](https://twitter.com/CallumDisney) or [emailing me](mailto:hello@bigmancallum.tk)
+You can reach me by [DMing my Twitter](https://twitter.com/CallumDisney) or [emailing me](mailto:hello@bigmancallum.tk.
 <br>
 # The good ones
 ### I like these
