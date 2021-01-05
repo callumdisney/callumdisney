@@ -9,4 +9,8 @@ My pronouns are he/him.
 <br>
 # The good ones
 ### I like these
-[Covid-Notiy](Sends a notification every 4 hours to alert you of current COVID-19 numbers. Based on [traditionallimb](https://github.com/traditonallimb)'s code)
+[Covid Notiy - Sends a notification every 4 hours to alert you of current COVID-19 numbers. Based on [traditionallimb](https://github.com/traditonallimb)'s code](https://github.com/callumdisney/covid-notify)
+<br>
+[Peppermint Games - A thing with [traditionallimb](https://github.com/traditonallimb). We are making a dungeon crawler.](https://github.com/peppermintgames)
+<br>
+[2020: The Game - A game currently in development by me, based on the year 2020.](https://github.com/callumdisney/2020-the-game)
