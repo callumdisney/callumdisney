@@ -26,6 +26,7 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lockdown Rap (Official Audio)](https://www.youtube.com/watch?v=usSZSTVTeeQ)
 <!-- YOUTUBE:END -->
 
 <h3 align="left">Languages and Tools:</h3>
