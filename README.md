@@ -1,19 +1,12 @@
 # Did you know you can have user READMEs?
-<!--
-### Hi there 👋
 
-**callumdisney/callumdisney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+Hi! I'm **Callum Disney**! I'm a British programmer, rapper, and a musician.
+<br>
+I’m currently working on 2 games. [2020: The Game](https://github.com/callumdisney/2020-the-game) and [a dungeon crawler](https://github.com/peppermintgames69/dungeon-crawler)
+You can reach me by [DMing my Twitter](https://twitter.com/CallumDisney) or [emailing me](mailto:hello@bigmancallum.tk)
+<br>
+My pronouns are he/him.
+<br>
+# The good ones
+### I like these
+[Covid-Notiy](Sends a notification every 4 hours to alert you of current COVID-19 numbers. Based on [traditionallimb](https://github.com/traditonallimb)'s code)
