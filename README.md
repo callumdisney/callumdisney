@@ -35,4 +35,4 @@
 
 [![Spotify](https://callumdisney.vercel.app/api/spotify)](https://open.spotify.com/user/8z264P9gRHGFfpU3nMU6jQ)
 
-
+[<img src="https://novatorem-gray-omega.vercel.app/" alt="Callum Disney's Spotify Playing" width="350" />](https://open.spotify.com/user/=9IJL7KEFSTOu4DiNk_a3Cw)
