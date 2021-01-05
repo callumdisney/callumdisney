@@ -36,7 +36,7 @@
 <details>
   <summary>Spotify Now Playing</summary>
 <!--START_SECTION:spotify-->
-[<img src="https://novatorem.callumdisney.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/8z264P9gRHGFfpU3nMU6jQ)
+  [![Spotify](https://novatorem.callumdisney.vercel.app/api/spotify)](https://open.spotify.com/user/8z264P9gRHGFfpU3nMU6jQ)
 <!--END_SECTION:spotify-->
 </details>
 
