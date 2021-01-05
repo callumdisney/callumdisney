@@ -9,9 +9,11 @@ I’m currently working on 2 games:
 My pronouns are he/him.
 <br>
 # Contacting me
+<br>
 You can reach me by [DMing my Twitter](https://twitter.com/CallumDisney) or [emailing me](mailto:hello@bigmancallum.tk)
 <br>
 # The good ones
+<br>
 ### I like these
 [Covid Notiy](https://github.com/callumdisney/covid-notify) - Sends a notification every 4 hours to alert you of current COVID-19 numbers. Based on [traditionallimb](https://github.com/traditionallimb)'s code.
 <br>
