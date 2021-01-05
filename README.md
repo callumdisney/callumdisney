@@ -13,4 +13,4 @@ My pronouns are he/him.
 <br>
 [Peppermint Games](https://github.com/peppermintgames) - A thing with [traditionallimb](https://github.com/traditonallimb). We are making a dungeon crawler.
 <br>
-[2020: The Game](https://github.com/callumdisney/2020-the-game) - A game currently in development by me, based on the year 2020.]
+[2020: The Game](https://github.com/callumdisney/2020-the-game) - A game currently in development by me, based on the year 2020.
