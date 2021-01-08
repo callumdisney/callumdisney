@@ -2,7 +2,6 @@
 <h3 align="center">I'm a British programmer, rapper, and a musician.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callumdisney&label=My GitHub profile has this many views:&color=0e75b6&style=flat" alt="callumdisney's GitHub profile views" /> </p>
-<img align="center" src="https://img.shields.io/uptimerobot/status/m786843107-202ec9f493a281fe7a9860c3?label=My%20website%20is%20currently"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=callumdisney" alt="callumdisney" /></a> </p>
 
