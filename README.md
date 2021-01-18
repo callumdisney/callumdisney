@@ -26,6 +26,7 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [im a proper little streamer now](https://www.youtube.com/watch?v=aZpfXzHWjew)
 - [Lockdown Rap (Official Audio)](https://www.youtube.com/watch?v=usSZSTVTeeQ)
 <!-- YOUTUBE:END -->
 > ### [My Channel](https://www.youtube.com/channel/UCoM8TZVnSPwwZgqWeyghfdw)
