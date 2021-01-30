@@ -26,6 +26,7 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [my spanish homework but i obnoxiously shout it at you](https://www.youtube.com/watch?v=BxxFIJiKtwM)
 - [im a proper little streamer now](https://www.youtube.com/watch?v=aZpfXzHWjew)
 - [Lockdown Rap (Official Audio)](https://www.youtube.com/watch?v=usSZSTVTeeQ)
 <!-- YOUTUBE:END -->
