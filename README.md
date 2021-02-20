@@ -26,11 +26,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [i was on call with my friends and said i would make a short “right now” so i did](https://www.youtube.com/watch?v=C9lDJQ2neyU)
 - [Stay Alive | Portal | Bubble Audio Visualiser](https://www.youtube.com/watch?v=UuqODclJElA)
 - [tryna record a short](https://www.youtube.com/watch?v=quduXANiN3I)
 - [it’s a short](https://www.youtube.com/watch?v=3v-05c9khgU)
 - [my spanish homework but i obnoxiously shout it at you](https://www.youtube.com/watch?v=BxxFIJiKtwM)
-- [im a proper little streamer now](https://www.youtube.com/watch?v=aZpfXzHWjew)
 <!-- YOUTUBE:END -->
 > ### [My Channel](https://www.youtube.com/channel/UCoM8TZVnSPwwZgqWeyghfdw)
 
