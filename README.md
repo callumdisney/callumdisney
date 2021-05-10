@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Callum Disney</h1>
+<h1 align="center">bruh Hi 👋, I'm Callum Disney</h1>
 <h3 align="center">I'm a British programmer, rapper, and a musician.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigmancallum&label=My GitHub profile has this many views:&color=0e75b6&style=flat" alt="bigmancallum's GitHub profile views" /> </p>
