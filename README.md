@@ -25,6 +25,7 @@
 </p>
 
 # Latest YouTube Videos
+<p>automatically updates because that's funny</p>
 <!-- YOUTUBE:START -->
 - [im so sorry...](https://www.youtube.com/watch?v=RDCJ4MbPrq8)
 - [How To Keep Pressure Plates Down in Minecraft | Neato Tutorials #1 | Big Man Callum](https://www.youtube.com/watch?v=OxkLzSII2kM)
